@@ -1,0 +1,3 @@
+Christmas is a fluid-width 2 column theme based on Binarius, for Moodle 2.4. 
+
+Christmas is designed to provide a fun, seasonally themed interface, and comes complete with a set of flashing Christmas Lights in the header, and seasonal images and block headers. It is not intended as a permanent default theme, but rather one that users can choose to display. It also includes a 2.4 compatible version of the MoodleBar developed by Lewis Carr, and uses the autohide functionality for course editing buttons outlined by Frankie Kam.
